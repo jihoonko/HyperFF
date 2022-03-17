@@ -57,7 +57,7 @@ if __name__ == '__main__':
                      'tags': 'tags-ask-ubuntu',
                      'threads': 'threads-math-sx',
                      'coauth': 'coauth-DBLP-full'}
-
+    
     if not os.path.exists('../results'):
         os.mkdir('../results')
     if not os.path.exists('../plots'):
