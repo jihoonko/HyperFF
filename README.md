@@ -1,5 +1,5 @@
 # HyperFF: Model For Generating Realistic Hypergraphs
-Source code for (1) analysis of real-world hypergraphs and (2) our model **HyperFF** for generating realistic hypergraphs, described in the paper "Growth Patterns and Models of Real-world Hypergraphs" Jihoon Ko*, Yunbum Kook*, and Kijung Shin (Under Review).
+Source code for (1) analysis of real-world hypergraphs and (2) our model **HyperFF** for generating realistic hypergraphs, described in the paper "Growth Patterns and Models of Real-world Hypergraphs" Jihoon Ko*, Yunbum Kook*, and Kijung Shin (to be appeared in Knowledge and Information Systems).
 
 In this work, we (A) establish structural and temporal patterns of real-world hypergraphs and (B) devise a stochastic model for generating realistic hypergraphs. That is,
 
