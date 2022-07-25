@@ -18,7 +18,6 @@ class stat_test:
                 sv_key = int(line.strip().split()[0])
                 sv_value = float(line.strip().split()[1])
                 elems += [sv_key for _ in range(int(sv_value * 100))]
-                elems.append(sv_value)
         return powerlaw.Fit(elems, discrete=True)
         
     #4. Size of Intersection
